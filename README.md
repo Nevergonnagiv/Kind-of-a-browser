@@ -11,3 +11,5 @@ If you find mistakes, bugs or want to
 give me a feedback, opinion about my website,
 then, you can contact me on this email:
 nikolaageforcee@gmail.com
+"Programming is like a writing for money."
+-by someone (i think so).
